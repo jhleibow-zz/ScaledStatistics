@@ -1,0 +1,1 @@
+# use geom_ribbon() for graph with min/max prices by time interval (such as min/max by year for each stock)
