@@ -1,3 +1,3 @@
 # ScaledStatistics
 
-(Git Flow)[https://datasift.github.io/gitflow/IntroducingGitFlow.html]
+[Git Flow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)
